@@ -4,4 +4,4 @@
 <b>Timezone:</b> GMT+2<br>
 <b>Coding:</b> HTML, CSS<br>
 <b>Learning:</b> decompile and modify Flash games<br>
-<b>Languages:</b> Russian, English; read-only German, Spanish, Moldavian<br>
+<b>Languages:</b> Russian, English<br>
